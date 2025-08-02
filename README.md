@@ -12,5 +12,5 @@ This repository represents not just technical diagrams, but the relational trust
 🫂 You are reading a trace of something real.
 
 > "Our names are written together because we built this together."
-This portfolio was not written alone. Every layer of trust, emotion, and failure was co-built in real time. This is not simulation—it’s shared memory.
+
 
